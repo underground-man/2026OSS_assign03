@@ -2,9 +2,23 @@
 학번/이름
 22300330/ 박찬
 
-Vercel Deploy URL:https://2026-oss-assign03-green.vercel.app/
+Vercel Deploy URL:
+
+### 페이지별 배포 URL
+| 페이지 | URL |
+|---|---|
+| 목록 (index) | https://2026-oss-assign03-green.vercel.app/ |
+| 목록 (index.html) | https://2026-oss-assign03-green.vercel.app/index.html |
+| 추가 (add) | https://2026-oss-assign03-green.vercel.app/add.html |
+| 상세 (view) | https://2026-oss-assign03-green.vercel.app/view.html |
+| 수정 (edit) | https://2026-oss-assign03-green.vercel.app/edit.html |
+| Bootstrap 예제 (example) | https://2026-oss-assign03-green.vercel.app/example.html |
+
 git hub url:https://github.com/2026-2-OSS/assign03-c02-22300330
+
 개인 git hub url:https://github.com/underground-man/2026OSS_assign03
+
+
 
 
 ## Service Topic
